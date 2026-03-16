@@ -7,3 +7,5 @@ mi primera contribucion local para githud
 Un commit mas desde githud
 
 una actualizaciom mas
+
+cambios desde ram rocal , developer01
